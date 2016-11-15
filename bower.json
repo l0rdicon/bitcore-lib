@@ -1,20 +1,19 @@
 {
-  "name": "bitcore-lib",
-  "main": "./bitcore-lib.min.js",
+  "name": "clamcore-lib",
+  "main": "./clamcore-lib.min.js",
   "version": "0.13.19",
-  "homepage": "http://bitcore.io",
+  "homepage": "http://github.com/l0rdicon/clamcore-lib",
   "authors": [
-    "BitPay, Inc."
+    "BitPay, Inc.",
+    "Clam Developers"
   ],
   "description": "A pure, powerful core for your bitcoin project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
-    "satoshi"
+    "clam",
+    "clamcore"
   ],
   "license": "MIT",
   "ignore": [
